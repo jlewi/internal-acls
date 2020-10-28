@@ -25,8 +25,10 @@ spec:
   - email: ifilonenko@bloomberg.net
     role: MEMBER
   - email: iman.tabrizian@gmail.com
-    role: MEMBER
+    role: MEMBER  
   - email: nrchakradhar379@gmail.com
+    role: MEMBER
+  - email: subodh.pushkar@gmail.com
     role: MEMBER
   - email: yliu989@bloomberg.net
     role: MEMBER
